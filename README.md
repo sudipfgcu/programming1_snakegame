@@ -61,12 +61,7 @@ This code demonstrates the following C++ concepts:
 - **Console I/O**: Using `cout` and `cin` for interactions.  
 - **Keyboard Input Handling**: Using `_kbhit()` and `_getch()` from `<conio.h>`.  
 - **Basic Graphics**: Drawing walls, the snake, and food with ASCII characters.  
-
-## Try It Yourself
-This game is beginner-friendly and can be customized! Here are some ideas:  
-1. Add new obstacles to the game.  
-2. Change the snake's appearance.  
-3. Introduce new game mechanics like power-ups or penalties.  
+ 
 
 ## Task for you to do  
 1. Manually change the height and width of the boundary to width = 100; height = 30;
