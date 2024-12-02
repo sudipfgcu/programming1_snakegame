@@ -68,11 +68,10 @@ This game is beginner-friendly and can be customized! Here are some ideas:
 2. Change the snake's appearance.  
 3. Introduce new game mechanics like power-ups or penalties.  
 
-## Contributing
-If you'd like to contribute or suggest improvements:  
-1. Fork the repository.  
-2. Make your changes.  
-3. Submit a pull request.  
+## Task for you to do  
+1. Manually change the height and width of the boundary to width = 100; height = 30;
+2. Make the snake’s tail grow by 2 units instead of 1 every time it eats a fruit.  
+3. Change the side walls from  '|'   to 'L'
 
 ## License
 This project is open-source and free to use for educational purposes.
