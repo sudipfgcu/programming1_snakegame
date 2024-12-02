@@ -19,7 +19,7 @@ In this Snake Game:
 1. **Clone the Repository**  
    Open a terminal and run the following command:  
    ```bash
-   git clone https://github.com/<YourUsername>/snake-game-cpp.git
+   git clone https://github.com/sudipfgcu/programming1_snakegame.git
    cd snake-game-cpp
    ```
 
